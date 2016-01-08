@@ -1,3 +1,5 @@
+#eggplant
+#aubergine
 from random import choice
 from random import randint
 attributenum = randint(0,7)
