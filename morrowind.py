@@ -1,5 +1,4 @@
 from random import choice
-from random import sample
 from random import randint
 attributenum = randint(0,7)
 racenum = randint(0,9)
